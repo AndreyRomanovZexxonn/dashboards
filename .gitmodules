@@ -1,3 +1,5 @@
 [submodule "test_pywebio/face_search"]
 	path = test_pywebio/face_search
 	url = git@github.com:AndreyRomanovZexxonn/face_search.git
+	branch = test
+
